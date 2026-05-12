@@ -4,7 +4,7 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 title: Hugo Narrow
 theme: "hugo-narrow"
-enableRobotsTXT: true
+# enableRobotsTXT: true
 
 hasCJKLanguage: true
 enableEmoji: true

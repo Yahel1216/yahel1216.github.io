@@ -12,6 +12,7 @@
 <meta name="language" content="{{ site.Params.language | default site.LanguageCode }}" />
 
 <meta name="robots" content="{{- with .Params.robots -}}{{ . }}{{- else -}}index, follow{{- end -}}" />
+<meta name="google-site-verification" content="XVA4zZ_DHo910034JKFzCQ7yEs-8a3d8959QHLEbAJI" />
 <link rel="canonical" href="{{ .Permalink }}" />
 
 
@@ -22,6 +23,7 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 {{ end }}
 
+<link rel="sitemap" href="/sitemap.xml"/>
 
 <link rel="manifest" href="/site.webmanifest" />
 {{ partial "layout/head/seo.html" . }}

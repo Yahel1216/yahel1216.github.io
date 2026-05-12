@@ -4,7 +4,7 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 title: Yahel Uffenheimer
 theme: "hugo-narrow"
-enableRobotsTXT: true
+# enableRobotsTXT: true
 
 caches:
   images:

@@ -21,6 +21,8 @@ author:
       url: "mailto:yahel.uffenheimer@mail.huji.ac.il"
       icon: "email"
 
+robots: robots.txt
+
 # Header configuration (modularized)
 header:
   sticky: false  # Enable sticky navigation bar
