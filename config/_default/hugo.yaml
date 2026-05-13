@@ -8,7 +8,7 @@ theme: "hugo-narrow"
 
 sitemap:
   changeFreq: "weekly"
-  filename: sitemap-0.xml
+  filename: sitemap.xml
 
 caches:
   images:
