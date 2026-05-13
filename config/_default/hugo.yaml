@@ -6,6 +6,10 @@ title: Yahel Uffenheimer
 theme: "hugo-narrow"
 # enableRobotsTXT: true
 
+sitemap:
+  changeFreq: "weekly"
+  filename: sitemap-0.xml
+
 caches:
   images:
     dir: :cacheDir/images
